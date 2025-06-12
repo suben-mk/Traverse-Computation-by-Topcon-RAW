@@ -9,6 +9,9 @@
 _**Programming Language :**_ VBA Excel
 1. ตั้งค่ากล้อง Classes และ Set Collection ก่อนการทำงาน
 2. ตั้งค่า Export Raw Data (Topcon Custom TS.txt)
+
+   ![2025-06-12_163019](https://github.com/user-attachments/assets/a50c1614-8a27-4ad2-a504-730f3d037943)
+   
 3. Overview
 
 ![2025-06-12_160215](https://github.com/user-attachments/assets/417b5561-45ef-42c8-b692-2c4b9256e1dd)
