@@ -7,6 +7,7 @@
 
 ## Workflow
 _**Programming Language :**_ VBA Excel
+_**VBA Script :**_ [VBA]()
 1. ตั้งค่ากล้อง Classes และ Set Collection ก่อนการทำงาน
 
    ![2025-06-12_164016](https://github.com/user-attachments/assets/f930184a-addc-4067-bc2d-dab1aed58910)
