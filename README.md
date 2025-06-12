@@ -1,4 +1,4 @@
-![2025-06-12_160422](https://github.com/user-attachments/assets/a8af7170-4895-411d-a884-cc15c8c8612a)![2025-06-12_160422](https://github.com/user-attachments/assets/a8af7170-4895-411d-a884-cc15c8c8612a)# Traverse Computation by Topcon Raw Data
+# Traverse Computation by Topcon Raw Data
 โปรแกรมวงรอบ โดยจะใช้ไฟล์ Raw จากกล้อง Total Station ของ Topcon (ผู้เขียนใช้รุ่น TOPCON GT-1201) ในตัวกล้องจะมีฟังชั่นการรังวัดมุมเป็นเซ็ต (Set Collection) ผู้เขียนใช้รูปแบบการวัดเป็น BS->FS->FS->BS ทั้งหมด 6 เซ็ต และรังวัดไป-กลับ ต่อ 1 การตั้งกล้อง (Station) โปรแกรมนี้หลักๆ จะมีดังนี้
   * แปลงข้อมูล Topcon-Raw อยู่ในรูปแบบของ MicroSurvey Star*Net สำหรับนำไปคำนวณในตัวโปรแกรม MicroSurvey
   * แปลงข้อมูล Topcon-Raw แยกเป็นแต่ละตั้งกล้อง (Station) สำหรับการเลือกมุมและระยะนำไปใช้คำนวณต่อไป
