@@ -4,3 +4,9 @@
   * แปลงข้อมูล Topcon-Raw แยกเป็นแต่ละตั้งกล้อง (Station) สำหรับการเลือกมุมและระยะนำไปใช้คำนวณต่อไป
   * คำนวณวงรอบปิดแบบคู่บรรจบ (ปรับแก้แบบทิศทางและระยะ) และวงรอบปิดแบบบรรจบตัวเดียว (ปรับแก้แค่ระยะ)
   * คำนวณวงรอบเปิดแบบไม่มีคู่บรรจบ 3D-Coordinate 
+
+## Workflow
+_**Programming Language :**_ VBA Excel
+1. ตั้งค่ากล้อง Classes และ Set Collection ก่อนการทำงาน
+2. ตั้งค่า Export Raw Data (Topcon Custom TS.txt)
+3. Overview
