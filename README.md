@@ -9,7 +9,7 @@
 _**Programming Language :**_ VBA Excel
 1. ตั้งค่ากล้อง Classes และ Set Collection ก่อนการทำงาน
 
-  ![Uploading 2025-06-12_164016.png…]()
+
 
 2. ตั้งค่า Export Raw Data (Topcon Custom TS.txt)
 
