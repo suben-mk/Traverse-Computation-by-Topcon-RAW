@@ -16,8 +16,12 @@ _**VBA Script :**_ [VBA](https://github.com/suben-mk/Traverse-Computation-by-Top
 2. ตั้งค่า Export Raw Data (Topcon Custom TS.txt)
 
    ![2025-06-12_163019](https://github.com/user-attachments/assets/a50c1614-8a27-4ad2-a504-730f3d037943)
+
+3. เช็ค Raw Data หลัง import เสร็จ ถ้ากล้อง Topcon ใช้ Magnet Field ver.ใหม่ๆ อาจจะต้องเพิ่มข้อมูลบรรทัดสุดท้ายดังรูป (ผู้เขียนยังไม่ได้แก้ไขโค้ด)
+
+  ![2025-06-12_170448](https://github.com/user-attachments/assets/36b39b19-d0cb-4aa2-b7de-f83726b9bcdb)
    
-3. Overview
+4. Overview
 
 ![2025-06-12_160215](https://github.com/user-attachments/assets/417b5561-45ef-42c8-b692-2c4b9256e1dd)
 ![2025-06-12_160252](https://github.com/user-attachments/assets/294d8912-89d6-4846-8641-bcb5a11ddef4)
